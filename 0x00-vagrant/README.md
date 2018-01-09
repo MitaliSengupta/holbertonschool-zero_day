@@ -6,5 +6,5 @@
 4. What is Ubuntu: Ubuntu is an open-source operating system that is Linux based.
 5. What does Ubuntu mean: Human-ness or Humanity towards others.
 6. How to use VMs with Vagrant: install VirtualBox VM and then Install Vagrant. 
-7. What does the command uname do
+7. What does the command uname do: Tells you about the OS.
 8. What is a zero-day
