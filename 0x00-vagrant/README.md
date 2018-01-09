@@ -1,6 +1,6 @@
 //Project 0
 
-1 What is a virtual machine: A virtual machine is software computer
+1. What is a virtual machine: A virtual machine is software computer
 2. What is vagrant: Vagrant is an open-source software that makes it easy to work with virtual machines.
 3. Who wrote Vagrant: Mitchell Hashimoto
 4. What is Ubuntu: Ubuntu is an open-source operating system that is Linux based.
